@@ -1,0 +1,14 @@
+#body {
+    position: relative;
+    margin: auto;
+    max-width: 500px;
+}
+
+#nav-bar ul {
+    list-style: none;
+
+}
+
+#nav-link li {
+    display: inline;
+}
